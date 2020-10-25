@@ -1,1 +1,6 @@
-.firacode { font-family: Fira Code; }
+body{
+	background-color: #EDEDED;
+	font-family: Helvetica;
+	margin: 40px;
+	text-align: right;
+}
